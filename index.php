@@ -6,7 +6,7 @@ include_once("inc/slide.php");
 <?php
 include_once("inc/promo.php");
 ?>
-
+Ok
 <!-- End promo area -->
 <?php
 include_once("inc/mainContent.php");
